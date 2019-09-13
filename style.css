@@ -140,7 +140,7 @@ p {
 
 /* Showcase */
 #showcase {
-    background: url("POOL.png") no-repeat center center/cover;
+    background: url('./POOL.png') no-repeat center center/cover;
     height: 600px;
 }
 
@@ -168,7 +168,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url("Screen%20Shot%202019-09-08%20at%206.17.48%20PM.png") no-repeat center center/cover;
+    background: url('./Screen\ Shot\ 2019-09-08\ at\ 6.22.48\ PM.png') no-repeat center center/cover;
     min-height: 100%;
 }
 
